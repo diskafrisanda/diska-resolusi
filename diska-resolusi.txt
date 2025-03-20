@@ -1,0 +1,7 @@
+Halo pak, salam kenal saya Diska seorang mahasiswi dari jawa tengah.
+
+Resolusi kedepannya:
+ - Menguasai frontend development dengan fokus pada CodeIgniter.
+ - Membangun website yang interaktif dan responsif.
+ - Memahami best practices dalam web development agar website lebih optimal.
+ - Belajar desain grafis untuk meningkatkan kreativitas dalam pembuatan UI/UX.
